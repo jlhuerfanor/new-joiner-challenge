@@ -1,0 +1,12 @@
+[submodule "new-joiner-challenge-new-joiners"]
+	path = new-joiner-challenge-new-joiners
+	url = git@github.com:jlhuerfanor/new-joiner-challenge-new-joiners.git
+[submodule "new-joiner-challenge-profile-reader"]
+	path = new-joiner-challenge-profile-reader
+	url = git@github.com:jlhuerfanor/new-joiner-challenge-profile-reader.git
+[submodule "new-joiner-challenge-task-reports"]
+	path = new-joiner-challenge-task-reports
+	url = git@github.com:jlhuerfanor/new-joiner-challenge-task-reports.git
+[submodule "new-joiner-challenge-tasks"]
+	path = new-joiner-challenge-tasks
+	url = git@github.com:jlhuerfanor/new-joiner-challenge-tasks.git
